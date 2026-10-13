@@ -1,5 +1,7 @@
 # E-commerce Business Intelligence
 
+![Executive Overview Dashboard](images/executive_overview.png)
+
 An end-to-end business intelligence project using the UCI Online Retail dataset to investigate sales performance, product demand, customer behavior, and commercial risks.
 
 The project follows a practical analytics workflow: **data audit → cleaning → SQL analysis → Python and statistics → Power BI dashboard → executive reporting**.
